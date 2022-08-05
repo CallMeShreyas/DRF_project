@@ -1,1 +1,1 @@
-web: gunicorn DRF_project.wsgi
+web: gunicorn EMAIL_APP.wsgi
